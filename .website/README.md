@@ -1,4 +1,7 @@
 ---
+genres:
+  - platformer
+  - adventure
 post: https://github.com/picosonic/js13k-2019/blob/master/devdiary/diary.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
